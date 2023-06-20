@@ -16,6 +16,9 @@
 
  ![image](https://github.com/anuragdw710/Nasa-Space-Mission/assets/78266752/e2ef003b-8ea1-4877-a97d-b02d5be1b803)
 
+ ![image](https://github.com/anuragdw710/Nasa-Space-Mission/assets/78266752/e619c3ac-32d0-46bc-8e5b-ba7c43a0c375)
+
+
  
 ### Basic view of Model 
  ![](https://raw.githubusercontent.com/anuragdw710/Nasa-Space-Mission/main/image.png)
