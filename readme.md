@@ -11,6 +11,9 @@
  
  
  ## Building Blocks-
+
+ ![image](https://github.com/anuragdw710/Nasa-Space-Mission/assets/78266752/e2ef003b-8ea1-4877-a97d-b02d5be1b803)
+
  
  
  ![](https://raw.githubusercontent.com/anuragdw710/Nasa-Space-Mission/main/image.png)
